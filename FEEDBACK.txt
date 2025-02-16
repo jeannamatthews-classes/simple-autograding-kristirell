@@ -1,0 +1,2 @@
+I used Git/GitHub during my internship, so most of this was at least a bit familiar. 
+I hadn't heard of fork before, though. I find it interesting since it's often used in open-source projects, which I'd like to get into. 
